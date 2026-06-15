@@ -1,5 +1,7 @@
 # Fund Finance Transaction Memo & Credit Request Package
 
+[![Fund Finance Project CI](https://github.com/jennasilvera/fund-finance-transaction-memo/actions/workflows/ci.yml/badge.svg)](https://github.com/jennasilvera/fund-finance-transaction-memo/actions/workflows/ci.yml)
+
 A simulated banker-style fund finance credit package for a Corporate & Leveraged Finance - Fund Solutions Group Analyst role.
 
 This project demonstrates transaction analysis, credit request preparation, borrowing base analysis, NAV / LTV analysis, covenant monitoring, lender presentation support, term sheet support, closing memo preparation, portfolio monitoring, and SQL-based reporting using synthetic fund finance data.
