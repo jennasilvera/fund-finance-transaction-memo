@@ -1,0 +1,40 @@
+name: Fund Finance Project CI
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build-project:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run full project pipeline
+        run: |
+          python src/run_all.py
+
+      - name: Verify required outputs
+        run: |
+          test -f data/investors.csv
+          test -f data/nav_positions.csv
+          test -f data/facility_assumptions.csv
+          test -f model/fund_finance_model.xlsx
+          test -f outputs/fund_finance.db
+          test -f outputs/reports/borrowing_base_summary_formatted.md
+          test -f outputs/reports/covenant_monitoring_report.md
+          test -f outputs/reports/sql_monitoring_outputs.md
