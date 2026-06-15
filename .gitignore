@@ -1,0 +1,23 @@
+# Python environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local/private notes
+docs/interview_explanation_private.md
+outputs/pdf/
+
+# Temporary files
+*.tmp
+*.log

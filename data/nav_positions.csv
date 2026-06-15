@@ -1,0 +1,19 @@
+position_id,portfolio_company,industry,asset_type,cost_basis,fair_value_marks,status,eligible_nav_collateral,nav_advance_rate,fair_value,nav_collateral_value,portfolio_weight
+POS001,Alpha Diagnostics Term Loan,Healthcare,Senior Secured Loan,55000000,0.96,Performing,Yes,0.85,52800000.0,44880000.0,0.083
+POS002,Beacon Software First Lien Loan,Software,Senior Secured Loan,48000000,0.98,Performing,Yes,0.85,47040000.0,39984000.0,0.074
+POS003,Canyon Logistics Unitranche,Logistics,Unitranche Loan,46000000,0.94,Performing,Yes,0.75,43240000.0,32430000.0,0.068
+POS004,Delta Packaging First Lien Loan,Packaging,Senior Secured Loan,44000000,0.97,Performing,Yes,0.85,42680000.0,36278000.0,0.0671
+POS005,Evergreen IT Services Loan,IT Services,Senior Secured Loan,43000000,0.99,Performing,Yes,0.85,42570000.0,36184500.0,0.0669
+POS006,Frontier Specialty Manufacturing,Industrials,Senior Secured Loan,42000000,0.95,Performing,Yes,0.85,39900000.0,33915000.0,0.0627
+POS007,Granite Business Services Debt,Business Services,Unitranche Loan,40000000,0.93,Performing,Yes,0.75,37200000.0,27900000.0,0.0585
+POS008,Harbor Consumer Products Loan,Consumer,Senior Secured Loan,39000000,0.91,Watchlist,Yes,0.65,35490000.0,23068500.0,0.0558
+POS009,Ivory Medical Devices Loan,Healthcare,Senior Secured Loan,38000000,0.98,Performing,Yes,0.85,37240000.0,31654000.0,0.0586
+POS010,Juniper Data Infrastructure Loan,Technology Infrastructure,Senior Secured Loan,37000000,0.99,Performing,Yes,0.85,36630000.0,31135500.0,0.0576
+POS011,Keystone Education Services Debt,Education,Unitranche Loan,36000000,0.92,Performing,Yes,0.75,33120000.0,24840000.0,0.0521
+POS012,Lighthouse Restaurant Group Loan,Restaurants,Second Lien Loan,34000000,0.82,Watchlist,No,0.0,27880000.0,0.0,0.0438
+POS013,Monarch Specialty Chemicals Loan,Chemicals,Senior Secured Loan,33000000,0.94,Performing,Yes,0.85,31020000.0,26367000.0,0.0488
+POS014,Northwind Distribution Loan,Distribution,Senior Secured Loan,32000000,0.97,Performing,Yes,0.85,31040000.0,26384000.0,0.0488
+POS015,Orchard Media Services Loan,Media,Second Lien Loan,30000000,0.8,Watchlist,No,0.0,24000000.0,0.0,0.0377
+POS016,Pinnacle Environmental Services,Environmental Services,Senior Secured Loan,28000000,0.96,Performing,Yes,0.85,26880000.0,22848000.0,0.0423
+POS017,Quartz Security Systems Loan,Security Services,Unitranche Loan,26000000,0.94,Performing,Yes,0.75,24440000.0,18330000.0,0.0384
+POS018,Riverview Food Ingredients Loan,Food Ingredients,Senior Secured Loan,24000000,0.95,Performing,Yes,0.85,22800000.0,19380000.0,0.0359

@@ -1,0 +1,27 @@
+metric,value
+Sponsor,"Aurora Ridge Capital Partners, L.P."
+Fund,"Aurora Ridge Private Credit Fund IV, L.P."
+Borrower,"ARPCF IV Financing Vehicle, L.P."
+Facility Type,Senior Secured Hybrid Subscription / NAV Revolving Credit Facility
+Facility Size,150000000
+Facility Outstanding,110000000
+Tenor Months,24
+Extension Option Months,12
+SOFR Floor,0.0
+Credit Spread,0.0275
+Unused Fee,0.005
+Total Commitments,1200000000
+Funded Commitments,540000000.0
+Unfunded Commitments,660000000.0
+Eligible Unfunded Commitments,627000000.0
+Subscription Borrowing Base,484137500.0
+Gross NAV,635970000.0
+Eligible NAV,584090000.0
+Maximum LTV Covenant,0.35
+Current LTV,0.18832714136520057
+NAV Floor,450000000
+Maximum NAV Debt Capacity,204431500.0
+Total Debt Capacity,150000000
+Excess Availability,40000000
+Minimum Unfunded Coverage Covenant,2.0
+Current Unfunded Coverage,5.7

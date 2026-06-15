@@ -1,0 +1,5 @@
+covenant,current_value,test,threshold,status
+Maximum LTV,0.18832714136520057,<=,0.35,Pass
+NAV Floor,584090000.0,>=,450000000.0,Pass
+Minimum Unfunded Coverage,5.7,>=,2.0,Pass
+Excess Availability,40000000.0,>=,0.0,Pass

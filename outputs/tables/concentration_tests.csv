@@ -1,0 +1,4 @@
+test,current_value,limit,status
+Largest Investor Concentration,0.15,0.2,Pass
+Top 5 Investor Concentration,0.5708333333333333,0.65,Pass
+GP / Affiliate Concentration,0.0375,0.05,Pass

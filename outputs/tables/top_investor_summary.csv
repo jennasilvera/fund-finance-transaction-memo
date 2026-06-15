@@ -1,0 +1,16 @@
+rank,investor_id,investor_name,investor_type,internal_rating,eligible_in_borrowing_base,total_commitment,unfunded_commitment,advance_rate,borrowing_base_contribution,commitment_pct
+1,INV001,Northstar Public Pension Trust,Public Pension,A,Yes,180000000,99000000.0,0.9,89100000.0,0.15
+2,INV002,Atlantic Sovereign Investment Authority,Sovereign Wealth,A,Yes,155000000,85250000.0,0.9,76725000.0,0.12916666666666668
+3,INV003,Harbor State Retirement System,Public Pension,A,Yes,135000000,74250000.0,0.9,66825000.0,0.1125
+4,INV004,Crescent Life Insurance Company,Insurance Company,A-,Yes,120000000,66000000.0,0.8,52800000.0,0.1
+5,INV005,Granite University Endowment,Endowment / Foundation,A-,Yes,95000000,52250000.0,0.75,39187500.0,0.07916666666666666
+6,INV006,Redwood Foundation,Endowment / Foundation,BBB+,Yes,85000000,46750000.0,0.75,35062500.0,0.07083333333333333
+7,INV007,Meridian Fund-of-Funds III,Fund-of-Funds,BBB,Yes,80000000,44000000.0,0.65,28600000.0,0.06666666666666667
+8,INV008,Pioneer Private Markets Program,Fund-of-Funds,BBB,Yes,75000000,41250000.0,0.65,26812500.0,0.0625
+9,INV009,Summit Family Capital,Family Office / HNW,BB+,Yes,60000000,33000000.0,0.5,16500000.0,0.05
+10,INV010,Bluewater Family Office,Family Office / HNW,BB+,Yes,50000000,27500000.0,0.5,13750000.0,0.041666666666666664
+11,INV011,Aurora Ridge GP Commitment,GP / Affiliate,NR,No,45000000,24750000.0,0.0,0.0,0.0375
+12,INV012,Lakeside Wealth Partners,Family Office / HNW,BB,Yes,40000000,22000000.0,0.5,11000000.0,0.03333333333333333
+13,INV013,Cedar Insurance Separate Account,Insurance Company,A-,Yes,35000000,19250000.0,0.8,15400000.0,0.029166666666666667
+14,INV014,Westlake Charitable Foundation,Endowment / Foundation,BBB+,Yes,30000000,16500000.0,0.75,12375000.0,0.025
+15,INV015,Oakmont Private Markets Feeder,Feeder / Other,NR,No,15000000,8250000.0,0.0,0.0,0.0125
