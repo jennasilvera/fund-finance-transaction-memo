@@ -2,7 +2,7 @@
 
 [![Fund Finance Project CI](https://github.com/jennasilvera/fund-finance-transaction-memo/actions/workflows/ci.yml/badge.svg)](https://github.com/jennasilvera/fund-finance-transaction-memo/actions/workflows/ci.yml)
 
-A simulated banker-style fund finance credit package for a Corporate & Leveraged Finance - Fund Solutions Group Analyst role.
+A simulated banker-style fund finance credit package for Corporate & Leveraged Finance.
 
 This project demonstrates transaction analysis, credit request preparation, borrowing base analysis, NAV / LTV analysis, covenant monitoring, lender presentation support, term sheet support, closing memo preparation, portfolio monitoring, and SQL-based reporting using synthetic fund finance data.
 
@@ -12,7 +12,7 @@ This is a simulated portfolio project. It does not use real clients, real funds,
 
 ## Project Objective
 
-The goal of this project is to create a realistic analyst-style work product for fund finance, corporate banking, leveraged finance, private credit, and investment banking analyst recruiting.
+The goal of this project is to create a realistic analyst-style work product for fund finance, corporate banking, leveraged finance, private credit, and investment banking.
 
 The project is designed to show the ability to support bankers and credit officers with:
 
