@@ -203,57 +203,57 @@ Sample SQL queries include:
 
 Create and activate a virtual environment:
 
-'''python 
+```python 
 python3 -m venv .venv
 
 source .venv/bin/activate
-'''
+```
 
 Install dependencies:
 
-'''
+```
 pip install -r requirements.txt
-'''
+```
 
 Generate synthetic datasets:
 
-'''
+```
 python src/generate_synthetic_data.py
-'''
+```
 
 Run borrowing base analysis:
 
-'''
+```
 python src/borrowing_base.py
-'''
 
-'''
+
+
 python src/export_formatted_borrowing_base_report.py
-'''
+```
 
 Run covenant monitoring:
 
-'''
+```
 python src/covenant_monitoring.py
-'''
+```
 
 Build the Excel model:
 
-'''
+```
 python src/build_excel_model.py
-'''
+```
 
 Build the SQLite database:
 
-'''
+```
 python src/build_sqlite_db.py
-'''
+```
 
 Run SQL monitoring checks:
 
-'''
+```
 python src/run_sql_checks.py
-'''
+```
 
 ---
 
